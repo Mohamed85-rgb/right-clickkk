@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89605566215",
+    "project_id": "bate5-dac79",
+    "storage_bucket": "bate5-dac79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89605566215:android:506d8a69b1a3467c989fa2",
+        "android_client_info": {
+          "package_name": "com.example.bate5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89605566215-7ne23vu542kacsjtu0kdapg9i3nis8t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNu3Fgqp1q2eFbPS_X0JbZoKfiQGWQWQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89605566215-7ne23vu542kacsjtu0kdapg9i3nis8t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
