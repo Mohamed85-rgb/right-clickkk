@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_const_constructors, sized_box_for_whitespace, prefer_const_constructors_in_immutables
 
-import 'package:bate5/register.dart';
+import 'package:bate5/wel.log.reg.cons/register.dart';
 import 'package:bate5/todo.dart';
 import 'package:flutter/material.dart';
 

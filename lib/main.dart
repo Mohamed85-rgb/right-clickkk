@@ -1,9 +1,11 @@
 // ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors
 
+import 'package:bate5/todo.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-
-import 'WelcomeScreen.dart';
+import 'wel.log.reg.cons/WelcomeScreen.dart';
+//import 'package:flutter_new_template/view/pages/HomePage.dart';
+//import 'payment/my fatoorah.dart';//
 
 
 void main() async{
@@ -18,11 +20,11 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
 
       debugShowCheckedModeBanner: false,
-      title: 'MessageMe app',
+      title: 'Flutter Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: WelcomeScreen(),
+      home: MyApp(),
     );
   }
 }
